@@ -1,0 +1,2 @@
+# Challenges
+Collection of exercises
