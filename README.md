@@ -1,3 +1,4 @@
 # Challenges
-Collection of exercises
+Collection of exercises 
+
 Check the readme in the folders.
