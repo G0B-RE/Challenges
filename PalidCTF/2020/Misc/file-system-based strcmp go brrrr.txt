@@ -1,6 +1,6 @@
 file-system-based strcmp go brrrr
-3 days ago
-Misc (150 pts)
+
+
 Story
 You stir awake, blinking at the bright sunlight shining directly onto your face. As you begin to wake up, you start replaying last night's events in your mind. It seems almost like a dream, but the flag sitting on your night table indicates that it was, in fact, real.
 
@@ -10,3 +10,4 @@ You step into the large, dimly lit room of the records building. It smells old a
 
 Problem Details
 strcmp go brrrr
+
